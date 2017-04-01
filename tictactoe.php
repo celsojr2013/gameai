@@ -14,7 +14,7 @@ $p1 = new Player('X',$brd,'cpu',0.01,0.001);
 
 //inicializer player2
 
-$p2 = new Player('O',$brd,'cpu',0.1,0.001);
+$p2 = new Player('O',$brd,'cpu',0.01,0.001);
 
 //loop de jogo
 
